@@ -22,8 +22,8 @@ data/                       # NOT included: put the match data bundle here
 ## Reproduce the submission
 
 ```bash
-git clone <REPO_URL>
-cd <REPO_NAME>
+git clone https://github.com/nicolascrifasi1603/back-of-the-neural-net.git
+cd back-of-the-neural-net
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

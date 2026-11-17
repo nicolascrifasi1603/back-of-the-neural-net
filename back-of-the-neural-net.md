@@ -116,11 +116,11 @@ The hardest stoppage: there is no tag for most fouls (only 5 free-kick tags agai
 
 ## 6. Reproduction
 
-Repository: `<REPO_URL>`
+Repository: https://github.com/nicolascrifasi1603/back-of-the-neural-net
 
 ```bash
-git clone <REPO_URL>
-cd <REPO_NAME>
+git clone https://github.com/nicolascrifasi1603/back-of-the-neural-net.git
+cd back-of-the-neural-net
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt          # pinned versions
 # put the match data bundle in data/  (not included; not redistributable)
