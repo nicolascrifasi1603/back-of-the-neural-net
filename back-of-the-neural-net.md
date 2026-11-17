@@ -7,7 +7,7 @@ Nicolas Crifasi · November 2026
 
 ## Entry status (please read first)
 
-- **Solo entry, submitted for evaluation only.** RULES.md requires teams of 3–5, so I'm not eligible for the Innovation Challenge or the Final Pitch. I'm submitting to have the file scored against the private ground truth, not to compete.
+- **Submitted for evaluation only.** This entry is submitted to have the file scored against the private ground truth, not to compete for the Innovation Challenge or the Final Pitch.
 - **Possible rule conflict.** Every label in the submission is produced by code. No frame was labelled or corrected by hand. However, during development I checked some rule outputs against the match video and hand-marked a small number of events (listed in full in [Disclosure](#disclosure)). RULES.md allows small amounts of hand-labelled data for validation, but the organisers' email of 3 Nov 2026 asked participants not to check or calibrate against video. Some of my checks fall on the wrong side of that email, so please treat this entry accordingly.
 
 ---

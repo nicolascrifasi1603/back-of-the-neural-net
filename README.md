@@ -4,7 +4,7 @@ Rule-based possession labelling for the **BAR–ATH** match (More than a Hack 20
 Every video frame gets a label: `H` / `A` (home / away in possession), `D` (dead ball) or `X` (ungraded).
 
 - **Approach:** sticky nearest-player possession, plus five dead-ball detectors (throw-ins, goals, goal kicks, corners, fouls / free kicks). No trained model.
-- **Entry status:** solo entry, submitted for evaluation only. See the technical document.
+- **Entry status:** submitted for evaluation only, not to compete. See the technical document.
 
 📄 **Technical document:** [`back-of-the-neural-net.md`](back-of-the-neural-net.md)
 
